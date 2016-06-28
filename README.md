@@ -1,2 +1,2 @@
 # python-codes.-part-3
-Списки. Lists.
+Списки. Функции / Lists. Functions
